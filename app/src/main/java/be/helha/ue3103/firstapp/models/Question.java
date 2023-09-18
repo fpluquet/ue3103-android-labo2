@@ -1,4 +1,4 @@
-package be.fpluquet.quiz.models;
+package be.helha.ue3103.firstapp.models;
 
 public class Question {
 

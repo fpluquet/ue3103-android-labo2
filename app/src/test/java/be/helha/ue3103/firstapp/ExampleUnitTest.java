@@ -1,4 +1,4 @@
-package be.fpluquet.quiz;
+package be.helha.ue3103.firstapp;
 
 import org.junit.Test;
 

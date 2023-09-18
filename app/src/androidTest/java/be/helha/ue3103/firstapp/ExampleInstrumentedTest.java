@@ -1,4 +1,4 @@
-package be.fpluquet.quiz;
+package be.helha.ue3103.firstapp;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("be.fpluquet.quiz", appContext.getPackageName());
+        assertEquals("be.helha.ue3103.firstapp", appContext.getPackageName());
     }
 }

@@ -1,17 +1,14 @@
-package be.fpluquet.quiz.controllers;
+package be.helha.ue3103.firstapp.controllers;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
-import android.util.Log;
-import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import be.fpluquet.quiz.R;
-import be.fpluquet.quiz.models.Question;
-import be.fpluquet.quiz.models.QuestionsBank;
+import be.helha.ue3103.firstapp.R;
+import be.helha.ue3103.firstapp.models.QuestionsBank;
 
 public class MainActivity extends AppCompatActivity {
 

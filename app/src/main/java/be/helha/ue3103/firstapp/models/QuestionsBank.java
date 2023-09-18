@@ -1,6 +1,6 @@
-package be.fpluquet.quiz.models;
+package be.helha.ue3103.firstapp.models;
 
-import be.fpluquet.quiz.R;
+import be.helha.ue3103.firstapp.R;
 
 public class QuestionsBank {
     private Question[] mQuestions = new Question[] {

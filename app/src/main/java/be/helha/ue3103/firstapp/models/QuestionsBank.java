@@ -23,6 +23,14 @@ public class QuestionsBank {
         return this.getCurrentQuestion().getTextResId();
     }
 
+    public int getCurrentIndex() {
+        return mCurrentIndex;
+    }
+
+    public void setCurrentIndex(int mCurrentIndex) {
+        this.mCurrentIndex = mCurrentIndex;
+    }
+
     public boolean isCurrentQuestionAnswerTrue() {
         return this.getCurrentQuestion().isAnswerTrue();
     }
